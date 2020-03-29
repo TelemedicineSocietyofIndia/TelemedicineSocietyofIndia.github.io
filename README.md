@@ -1,6 +1,6 @@
 # Collaterals for Teleconsultation
 ## Under the aegis of Telemedicine Society of India
-Note: This is only a repository. For the official website of TSI, please visit [the official website](http://tsi.org.in/)
+Note: This is only a repository. For the official website of TSI, please visit [the official website](http://tsi.org.in/) (http://tsi.org.in/)
 
 Disclaimer:
 This site is primarily for the dissemination of authenticated collaterals produced by the professionals working under the aegis of the Telemedicine Society of India, and its associates for training of registered medical professionals in the practice of telemedicine (primarily tele consultation).
