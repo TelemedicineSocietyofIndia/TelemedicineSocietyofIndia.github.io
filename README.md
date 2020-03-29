@@ -1,5 +1,5 @@
-# Telemedicine Society of India - Collaterals for Teleconsultation
-
+# Collaterals for Teleconsultation
+## Under the aegis of Telemedicine Society of India
 Note: This is only a repository. For the official website of TSI, please visit (http://tsi.org.in/)
 
 Disclaimer:
