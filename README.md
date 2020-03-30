@@ -1,5 +1,6 @@
 # Collaterals for Teleconsultation
 ## Under the aegis of the [Telemedicine Society of India](https://tsi.org.in/)
+### Notice:
 This is only a repository. For the official website of TSI, please visit [https://tsi.org.in/](https://tsi.org.in/)
 
 Please create a fork of the [repository](https://github.com/TelemedicineSocietyofIndia/training) to make changes and submit a pull request. See contributors manual for more details.
@@ -14,7 +15,7 @@ This site is primarily for the dissemination of authenticated collaterals produc
 Users are expected to ascertain the validity of the content against the latest guidelines published by the MoHFW and other departments of the Central Government of India and State Governments.
 [Click here for the MoHFW, GoI guidelines on Telemedicine](https://www.mohfw.gov.in/pdf/Telemedicine.pdf)
 
-All material is licensed under "Creative Commons Attribution-ShareAlike 2.5 India". We do NOT gurantee any personal data protection or privacy rights adherence. Users and contributors, alike, are advised to diligently avoid submissions of any information they do not wish to make public. Disputes are subject to the jurisdiction of the courts in New Delhi, India only.
+All material is licensed under "Creative Commons Attribution-ShareAlike 2.5 India". We do NOT guarantee any personal data protection or privacy rights adherence. Users and contributors, alike, are advised to diligently avoid submissions of any information they do not wish to make public. Disputes are subject to the jurisdiction of the courts in New Delhi, India only.
 
 Kindly read and accept the [terms and conditions](https://github.com/TelemedicineSocietyofIndia/training/blob/master/TnC.md) and the [privacy policy](https://github.com/TelemedicineSocietyofIndia/training/blob/master/PRIVACY.md) prior to accessing this site any further.
 
