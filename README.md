@@ -6,7 +6,7 @@ Please create a fork of the [repository](https://github.com/TelemedicineSocietyI
 
 For change requests and corrections please log a ticket by [clicking here](https://github.com/TelemedicineSocietyIndia/training/issues)
 
-[Click here to enroll for the upcoming training on Telemedicine in view of COVID 19](https://docs.google.com/forms/d/e/1FAIpQLSdyqwSzELWkY-ir-tlxkbTgsLgWSyskz68jNKBuomURgez3Yg/viewform)
+[Click here to enroll for training on Telemedicine in view of COVID 19](https://telemedicinesocietyindia.github.io/enroll)
 
 ### Disclaimer:
 This site is primarily for the dissemination of authenticated collaterals produced by the professionals working under the aegis of the Telemedicine Society of India, and its associates for training of registered medical professionals in the practice of telemedicine (primarily tele consultation). There is no warranty, or liability on the collaterals and artifacts contained herein.
