@@ -4,7 +4,7 @@ This is only a repository. For the official website of TSI, please visit [https:
 
 Please create a fork of the [repository](https://github.com/TelemedicineSocietyofIndia/training) to make changes and submit a pull request. See contributors manual for more details.
 
-For change requests and corrections please log a ticket by [clicking here](https://github.com/TelemedicineSocietyIndia/training/issues)
+For change requests and corrections please log a ticket by [clicking here](https://github.com/TelemedicineSocietyofIndia/training/issues)
 
 [Click here to enroll for training on Telemedicine in view of COVID 19](https://TelemedicineSocietyofIndia.github.io/enroll)
 
